@@ -1,0 +1,1 @@
+"Conflicto resuelto entre main y hotfix-actualizacion en index.html" 

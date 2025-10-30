@@ -1,0 +1,5 @@
+Propuesta de filtro por categoría:
+
+- Agregar un campo de selección (select) con las categorías disponibles (frutas, verduras, etc.).
+- Al seleccionar una categoría, solo se mostrarán los productos que correspondan a esa categoría.
+
