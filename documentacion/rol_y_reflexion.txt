@@ -1,0 +1,16 @@
+ Rol y reflexión 
+
+- Qué rol cumplió usted (Scrum Master, Product Owner o Developer). (Escoger una sola y explicarla)
+- Cómo SCRUM ayuda a mejorar la organización y productividad del proyecto.
+
+Rol:
+Product Owner
+
+La función del Product Owner es muy crucial, ya que de este es quien define el valor del proyecto y mantiene actualizado el product Backlog.
+En este caso fue definir las historias de usuario, priorizar las tareas mas importantes del proyecto, asegurar que el equipo entienda
+correctamente los objetivos del proyecto, y de representar las necesidades tanto de los compradores como de los productores locales, para poder garantizar que el sistema sea útil, claro, y funcional.
+
+Reflexión sobre SCRUM:
+
+SCRUM es una de esas metodologías agiles que permite mejorar esa organización y productividad. Gracias a los roles, el equipo sabe exactamente que hacer  y como colaborar. En el desarrollo de  proyectos la organización es fundamental, y SCRUM ayuda a evitar tareas innecesarias enfocando el trabajo en lo que realmente es importante.
+

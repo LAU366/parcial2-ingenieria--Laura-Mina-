@@ -1,0 +1,50 @@
+- Descripción (formato: *Como [rol], quiero [acción], para [beneficio]*)
+- Criterios de aceptación
+- Prioridad (Alta, Media, Baja)
+
+Sprint 1:
+
+ Historia de usuario 1:
+
+“Como comprador, quiero poder visualizar una lista de productos disponibles con su nombre, precio y categoría, para poder elegir fácilmente qué comprar.”
+
+**Criterios de aceptación**
+
+- Se debe mostrar una lista con todos los productos disponibles.  
+- Cada producto debe mostrar su nombre, precio y categoría.  
+- La lista debe actualizarse cuando se agreguen nuevos productos.  
+
+**Prioridad**
+
+-Alta
+
+Historia de usuario 2:
+
+" Como comprador, quiero poder agregar productos al carrito, para comprar varios artículos  en un solo pago"
+
+**Criterios de aceptación**
+
+-Cada producto debe mostrar la opción "Agregar al carrito".
+-El usuario puede agregar o eliminar productos del carrito.
+-El sistema debe mostrar la actualización del contenido que hay en el carrito y el total de la  compra.
+
+**Prioridad**
+
+-Alta 
+
+
+Historia de usuario 3:
+
+ "Como productor local quiero poder publicar nuevos productos con su nombre, precio y foto, para ofrecerlo a los compradores."
+
+**Criterios de aceptación**
+
+-El productor local, puede agregar, editar, o eliminar productos del sistema.
+-El sistema debe actualizar automaticamente la lista de productos publicados.
+-El sistema debe mostrar un mensaje de confirmacion de los productos agregados, editados o eliminados.
+
+**Prioridad**
+-Alta
+
+
+

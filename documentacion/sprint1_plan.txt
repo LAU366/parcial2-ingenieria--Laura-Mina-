@@ -1,0 +1,44 @@
+ **Planificación de Sprint**
+
+- Objetivo del sprint
+- Historias seleccionadas para el Sprint 1
+- Tareas específicas que se deben realizar
+- Duración estimada del sprint (en días)
+
+**Objetivo del sprint**
+Desarrollar la interfaz de la aplicación web, EcoMarket, que permitirá a los compradores visualizar los productos 
+disponibles y agregarlos al carrito de compras, así como también permitir a los productores publicar nuevos productos.
+
+**Historias seleccionadas para el sprint 1**
+1.HU1: Visualizar lista de productos disponibles con su nombre, precio y categoría. 
+2. HU2: Agregar productos al carrito para realizar una compra junta.
+3. HU3: Publicar nuevos productos con nombre, precio y foto.
+
+
+**Tareas especificas**
+
+HU1:
+
+-Diseñar la interfaz de la lista de productos.
+-Crear estructura HTML para mostrar nombre, precio, y categoría.
+-conectar lista con datos simulados (arreglo).
+-estilizar con CSS.
+
+HU2:
+-Implementar botón "Agregar al carrito".
+-Crear sección del carrito de compras.
+-Permitir eliminar productos del carrito.
+-Mostrar todo actualizado.
+
+HU3:
+-Diseñar un formulario para agregar productos con nombre, precio y foto.
+-Programar una función que permita agregar, editar y eliminar.
+-Mostrar mensaje de confirmación.
+-Actualizar automáticamente.
+
+**Duración estimada**
+8 días 
+
+
+
+
